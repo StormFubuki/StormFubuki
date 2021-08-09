@@ -1,14 +1,14 @@
 ## Olá Olá, sou o Storm
 <div>
   <img align="left" alt="Storm-Welcome" src="https://cdn.discordapp.com/attachments/647179399757824003/874077537104445470/Emoji_especial_do_storm.png">
-  <img align="right" width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=StormFubuki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-- 🔭 Estou atualmente trabalhando: Como Freelancer
+  <img align="right" width="375em" height="200em" src="https://github-readme-stats.vercel.app/api?username=StormFubuki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+🔭 Estou atualmente trabalhando: Como Freelancer
   <br>
-- 🌱 Estou atualmente estudando: Programação Back-End
+🌱 Estou atualmente estudando: Programação Back-End
   <br>
-- 📫 Como me Contatar: Discord("Storm -_-#0997")
+📫 Como me Contatar: Discord("Storm -_-#0997")
   <br>
-- 😄 Pronomes: Rock
+😄 Pronomes: Rock
   <a href="https://github.com/StormFubuki">
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StormFubuki&layout=compact&langs_count=7&theme=dracula"/>-->
 </div>

@@ -8,7 +8,7 @@
   <br>
 📫 Como me Contatar: Discord("Storm -_-#0997")
   <br>
-:notes: Provavelmente estou ouvindo lo-fi e programando, mas sempre estou online independentemente da situação
+:notes: Estou sempre online, seja programando ou ouvindo lo-fi
   <a href="https://github.com/StormFubuki">
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StormFubuki&layout=compact&langs_count=7&theme=dracula"/>-->
 </div>

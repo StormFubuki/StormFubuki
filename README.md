@@ -1,7 +1,7 @@
 ## Olá Olá, sou o Storm
 <div>
-  <img align="left" alt="Storm-Welcome" src="https://cdn.discordapp.com/attachments/647179399757824003/874077537104445470/Emoji_especial_do_storm.png">
-  <img align="right" width="375em" height="200em" src="https://github-readme-stats.vercel.app/api?username=StormFubuki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=StormFubuki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="2030px" alt="Storm-Welcome" src="https://cdn.discordapp.com/attachments/647179399757824003/874077537104445470/Emoji_especial_do_storm.png">
 🔭 Atualmente Trabalhando: Como Freelancer
   <br>
 🌱 Atualmente Estudando: Programação Back-End

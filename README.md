@@ -1,7 +1,7 @@
 # Olá, sou o Storm
 ## sempre online, seja programando ou ouvindo lo-fi
-<!-- ### 📫 Contato: Discord "Storm -_-#0997" <br> 🌱 Estudos: Spring Boot Java e GDScript <br> 🔭 Trabalho: Freelancer 
- -->
+### 📫 Contato: Discord "Storm -_-#0997" <br> 🌱 Estudos: Node.js, Express.js e MongoDB <br> 🔭 Trabalho: Freelancer e PJ 
+
 <div><br>
   <img alt="Storm-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img alt="Storm-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

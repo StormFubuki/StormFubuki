@@ -8,7 +8,7 @@
   <img alt="Storm-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Storm-JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Storm-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Storm-React" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+  <img alt="Storm-React" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img alt="Storm-Angular" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img alt="Storm-Node" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img alt="Storm-Express" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">

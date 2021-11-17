@@ -1,7 +1,7 @@
 # Olá, sou o Storm
 ## sempre online, seja programando ou ouvindo lo-fi
-### 📫 Contato: Discord "Storm -_-#0997" <br> 🌱 Estudos: Spring Boot Java e GDScript <br> 🔭 Trabalho: Freelancer 
-
+<!-- ### 📫 Contato: Discord "Storm -_-#0997" <br> 🌱 Estudos: Spring Boot Java e GDScript <br> 🔭 Trabalho: Freelancer 
+ -->
 <div><br>
   <img alt="Storm-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img alt="Storm-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -9,8 +9,10 @@
   <img alt="Storm-JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Storm-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Storm-Angular" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+  <img alt="Storm-Node" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img alt="Storm-Express" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
+  <img alt="Storm-MongoDB" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
   <img alt="Storm-Spring" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  
 </div>
 <!--
 <div>

@@ -1,6 +1,6 @@
-# Olá, sou o Storm
-## sempre online, seja programando ou ouvindo lo-fi
-### 📫 Contato: Discord "Storm -_-#8349" <br> 🌱 Estudando: Node.js, Express.js e MongoDB <br> 🔭 Trabalho: Freelancer/PJ 
+# Olá, eu sou o Storm
+## Sempre online, seja Programando ou ouvindo Lo-Fi
+### 📫 Contato: Discord "Storm -_-#8349" <br> 🌱 Atualmente Estudando: AdonisJS <br> 🔭 Trabalho: Freelancer/PJ e CLT 
 
 <div><br>
   <img alt="Storm-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
